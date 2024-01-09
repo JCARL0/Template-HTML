@@ -207,7 +207,7 @@ a{
 }
 
 .nav-link:hover{
-    color: #0099ff;
+    color: var(--primary-color);
 }
 
 .search-box{
@@ -335,7 +335,7 @@ a{
 
 #sidebar .categories a:hover{
     background-color: var(--primary-color);
-    color: #0099ff;
+    color: var(--light);
 }
 
 /* ----------- .sidebar page ------- */
